@@ -1,0 +1,15 @@
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.csproj.AssemblyReference.cache
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.AssemblyInfoInputs.cache
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.AssemblyInfo.cs
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.csproj.CoreCompileInputs.cache
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\bin\Debug\net6.0\LogicalProgramme.exe
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\bin\Debug\net6.0\LogicalProgramme.deps.json
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\bin\Debug\net6.0\LogicalProgramme.runtimeconfig.json
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\bin\Debug\net6.0\LogicalProgramme.dll
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\bin\Debug\net6.0\LogicalProgramme.pdb
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.dll
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\refint\LogicalProgramme.dll
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.pdb
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\LogicalProgramme.genruntimeconfig.cache
+C:\Users\bodap\source\repos\LogicalProblems\LogicalProgramme\obj\Debug\net6.0\ref\LogicalProgramme.dll
